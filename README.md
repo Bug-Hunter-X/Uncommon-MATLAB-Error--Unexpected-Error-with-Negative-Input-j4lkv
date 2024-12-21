@@ -1,0 +1,1 @@
+This repository contains a MATLAB function that demonstrates an uncommon error. The function `myFunction` throws an error when given a negative input, but the error message is not very helpful. The solution provides a more informative error message.
